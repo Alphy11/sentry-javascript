@@ -3,6 +3,7 @@
 ## 5.4.1
 
 - [integrations] fix: Tracing integration fetch headers bug.
+- [utils] fix: Better native `fetch` detection via iframes. Fix #1601
 
 ## 5.4.0
 
